@@ -1,4 +1,4 @@
-class GitSwitch < Formula
+class RaycastMonitor < Formula
   homepage "https://github.com/frixxx/raycast-monitor"
   url "https://github.com/frixxx/raycast-monitor/archive/refs/tags/v0.0.1.tar.gz"
   version "0.0.1"
