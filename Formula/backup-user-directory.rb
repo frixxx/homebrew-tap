@@ -1,4 +1,4 @@
-class GitSwitch < Formula
+class BackupUserDirectory < Formula
   homepage "https://github.com/frixxx/backup-user-directory"
   url "https://github.com/frixxx/backup-user-directory/archive/refs/tags/v0.0.1.tar.gz"
   version "0.0.1"
