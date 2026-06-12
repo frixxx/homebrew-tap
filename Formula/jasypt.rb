@@ -1,8 +1,8 @@
 class Jasypt < Formula
   homepage "https://github.com/frixxx/jasypt"
-  url "https://github.com/frixxx/jasypt/archive/refs/tags/v0.0.2.tar.gz"
-  version "v0.0.2"
-  sha256 "50cffb961efcd4c8a68d1f964facdff45e10e92fb28c33d19b6e85e23b021009"
+  url "https://github.com/frixxx/jasypt/archive/refs/tags/v0.0.3.tar.gz"
+  version "v0.0.3"
+  sha256 "4bcb9eaad4564e50b3d1eeb326cae2a503476f43271706a5be16787c20cc8015"
 
   def install
     libexec.install Dir["*"]
